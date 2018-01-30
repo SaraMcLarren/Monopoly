@@ -13,14 +13,6 @@ public class Spielfeld extends MonopolyMain{
         this.besitzer=null; //besitzer
     }
 
-    List Spielfeld = new ArrayList();
-    Spielfeld.add()
-
-
-
-
-
-
 
 
     public String getName() {
@@ -36,9 +28,6 @@ public class Spielfeld extends MonopolyMain{
     }
     public void setPosition(int position) {
         this.position = position;
-    }
-    public void setBesitzer(Spieler besitzer) {
-        this.besitzer = besitzer;
     }
 
     public Spieler getBesitzer() {

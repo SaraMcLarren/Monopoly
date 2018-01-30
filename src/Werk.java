@@ -1,4 +1,4 @@
-public class Werk extends Spielfeld { //aka Raumstationen
+public class Werk extends Spielfeld { //aka Todessterne
     int kaufpreis;
     int station;
 
